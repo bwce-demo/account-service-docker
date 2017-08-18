@@ -10,7 +10,7 @@
             "portMappings": [
                 {
                     "containerPort": 8080,
-                    "hostPort": 8080
+                    "hostPort": 8081
                 }
             ],
             "environment": [
@@ -22,7 +22,7 @@
             "logConfiguration": {
                 "logDriver": "awslogs",
                 "options": {
-                    "awslogs-group": "bwce-app-log",
+                    "awslogs-group": "bwce-account-log",
                     "awslogs-region": "us-east-1",
                     "awslogs-stream-prefix": "bwce"
                 }
