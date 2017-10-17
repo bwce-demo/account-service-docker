@@ -59,7 +59,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//AccountService.module//DB_URL</name>
-			<value>jdbc:postgresql://bwce-account.cw5wfv31yf6s.us-east-1.rds.amazonaws.com:5432/account</value>
+			<value>jdbc:postgresql://bwce-demo.cw5wfv31yf6s.us-east-1.rds.amazonaws.com:5432/banq</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
@@ -67,19 +67,19 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//AccountService.module//DB_USER</name>
-			<value>tibco</value>
+			<value>postgres</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
-			<isOverride>false</isOverride>
+			<isOverride>true</isOverride>
 		</globalVariable>
 		<globalVariable>
 			<name>//AccountService.module//DB_PASS</name>
-			<value>#!vcyMimbmxEYHy0VD7u11PTH7IF8Lb/ntTtGQXev4Khc=</value>
+			<value>#!sEcMLw/aB7Y0ZWCRJJxwdo4NcHp91ZhwOxjJzGmvaX4=</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Password</type>
-			<isOverride>false</isOverride>
+			<isOverride>true</isOverride>
 		</globalVariable>
 	</globalVariables>
 </repository>
