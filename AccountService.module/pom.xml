@@ -10,6 +10,10 @@
   </parent>
   <artifactId>AccountService.module</artifactId>
   <packaging>bwmodule</packaging>
+  <properties>
+  	<sonar.projectName>AccountService_K8S</sonar.projectName>
+  	<sonar.sources>.</sonar.sources>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>com.tibco.plugins</groupId>
