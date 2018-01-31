@@ -59,7 +59,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>DB_URL</name>
-			<value>jdbc:postgresql://bwce-demo.cw5wfv31yf6s.us-east-1.rds.amazonaws.com:5432/banq</value>
+			<value>jdbc:postgresql://bwce-account.cw5wfv31yf6s.us-east-1.rds.amazonaws.com:5432/account</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
@@ -67,7 +67,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>DB_USER</name>
-			<value>postgres</value>
+			<value>tibco</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
@@ -75,7 +75,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>DB_PASS</name>
-			<value>#!XOTwugWxcc+ozX1JoqJphI5qjHAWYH2OXWKrBdlSglo=</value>
+			<value>#!C9N8LIh5O9w7iwKXm/WTBo4yywcXf4KGa5bH/T3sG4Q=</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Password</type>
