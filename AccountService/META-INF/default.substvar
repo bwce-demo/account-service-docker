@@ -67,19 +67,19 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//AccountService.module//DB_USER</name>
-			<value>postgres</value>
+			<value>tibco</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
-			<isOverride>true</isOverride>
+			<isOverride>false</isOverride>
 		</globalVariable>
 		<globalVariable>
 			<name>//AccountService.module//DB_PASS</name>
-			<value>#!sEcMLw/aB7Y0ZWCRJJxwdo4NcHp91ZhwOxjJzGmvaX4=</value>
+			<value>#!M8UAY9n2eAzIJcNk2VqQc5dmbUbHS7m5b6KOu81SAjw=</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Password</type>
-			<isOverride>true</isOverride>
+			<isOverride>false</isOverride>
 		</globalVariable>
 	</globalVariables>
 </repository>
